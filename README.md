@@ -1,4 +1,5 @@
 1. Project Overview
+
 The goal of this project is to design, implement, and evaluate two neural network models, a Feedforward Neural Network (FFNN) and a Recurrent Neural Network (RNN), to classify customer reviews into star ratings. These models leverage different architectural paradigms to process and analyze textual data:
 
 FFNN: Processes text reviews as fixed-length vector representations, making it a straightforward yet powerful approach for classification tasks.
