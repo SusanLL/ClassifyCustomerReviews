@@ -9,7 +9,7 @@ The dataset contains customer reviews labeled with star ratings. It is divided i
 Setup Instructions:
 
 1. Access the Code
-Click the document CS 4375_HW2_FFNN.ipynb and CS 4375_HW2_RNN.ipynb
+Click the document FFNN.ipynb and RNN.ipynb
 
 2. Run the Code
 Once you've opened the Colab notebook, simply run each cell to execute the analysis. This will build the models, perform the analysis, and display results such as performance metrics and visualizations.
